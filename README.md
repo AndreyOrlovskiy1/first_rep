@@ -5,6 +5,6 @@
 Текст удаленно
 
 ## Список
-- первый
-- второй
-- третий
+- first element 
+- second element
+- third element 
